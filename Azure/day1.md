@@ -23,6 +23,13 @@
 ![](./images/Azure3.png)
 
 
+## Active Azure Regions in India
+- Central India (Pune): Located locally, features multi-availability zones, and serves as a primary production region.
+- South India (Chennai): Acts as a primary disaster recovery and geo-redundant storage partner for other domestic regions.
+- West India (Mumbai): Handles secondary deployments and network edge capabilities.
+- South Central India (Hyderabad): Functions as an expanded high-capacity region geared towards modern cloud and AI workloads.
+
+
 
 ## Introduction to Azure Cloud Shell 
 
