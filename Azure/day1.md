@@ -1,6 +1,11 @@
+
+
 ## Get to know about Azure 
 - What is Azure?
 - https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure
+![](./images/azurevsaws.png)
+
+
 ![](./images/cloudlead.png)
 
 
