@@ -50,6 +50,8 @@ VM size = how much **CPU, RAM, temp storage, and network bandwidth** the VM gets
 ### C) Disk Type
 Every VM needs at least an **OS disk**, and often one or more **data disks**. Disk type controls performance (IOPS/throughput) and cost — covered in depth in Section 6.
 
+![](./images/disk.png)
+
 ### Putting It Together — A Simple Selection Flow
 ```
 1. Pick OS based on app compatibility
