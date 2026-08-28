@@ -40,7 +40,8 @@ Every single action in Azure — whether from the Portal, CLI, PowerShell, SDKs,
 
 ## resource group - A container that holds related resources for an Azure solution. The resource group includes those resources that you want to manage as a group.
 
-
+## Classic vs ARM 
+![](./images/asmvsarm.png)
 
 ## Understanding ARM template 
 - **JSON** syntax files to create an manage Azure resources
