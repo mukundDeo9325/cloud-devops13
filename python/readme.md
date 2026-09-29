@@ -1,6 +1,6 @@
 1. what is python & History
-2. variable & their types
-3. data types
+2. variable & their types 
+3. data types & Operators 
 4. Oprators & types
 5. if - else
 6. loops - for loop and while loop
