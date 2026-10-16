@@ -170,3 +170,15 @@ gcloud storage buckets add-iam-policy-binding gs://my-bucket \
 - **Why can't this user do X?** Use the **Policy Troubleshooter** (IAM & Admin > Policy Troubleshooter).
 - **Unused access?** The **IAM Recommender** suggests removing roles that were never used.
 - Changes can take a few minutes to apply.
+
+
+
+
+## Official Documentation
+
+- [IAM overview](https://cloud.google.com/iam/docs/overview)
+- [Roles and permissions](https://cloud.google.com/iam/docs/roles-overview)
+- [Understanding allow policies](https://cloud.google.com/iam/docs/allow-policies)
+- [Resource hierarchy](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy)
+- [Service accounts overview](https://cloud.google.com/iam/docs/service-account-overview)
+- [Best practices for service accounts](https://cloud.google.com/iam/docs/best-practices-service-accounts)
