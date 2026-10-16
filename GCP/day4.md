@@ -257,12 +257,8 @@ The big idea is **least privilege**: only the access needed, on only the resourc
 
 ---
 
-## 8. Official Documentation
+##  Official Documentation
 
-- [IAM overview](https://cloud.google.com/iam/docs/overview)
-- [Roles and permissions](https://cloud.google.com/iam/docs/roles-overview)
-- [Understanding allow policies](https://cloud.google.com/iam/docs/allow-policies)
-- [Resource hierarchy](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy)
 - [Service accounts overview](https://cloud.google.com/iam/docs/service-account-overview)
 - [Best practices for service accounts](https://cloud.google.com/iam/docs/best-practices-service-accounts)
 - [Service account impersonation](https://cloud.google.com/iam/docs/service-account-impersonation)
