@@ -1,3 +1,5 @@
+
+![](./cloud_storage.png)
 # Google Cloud Storage: Study Notes
 
 Topics covered:
