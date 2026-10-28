@@ -1,6 +1,5 @@
 # GCP Cloud Notes: Filestore and Cloud SQL
 
-These notes cover the four topics in simple language, with real-life examples, practical steps, best practices, and official Google Cloud documentation links.
 
 ## 1. Understanding Filestore (NFS on Cloud)
 
